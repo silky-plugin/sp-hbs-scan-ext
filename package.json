@@ -1,0 +1,8 @@
+{
+  "name": "sp-hbs-scan-ext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.1"
+  }
+}
